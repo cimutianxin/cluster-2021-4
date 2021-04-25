@@ -1,6 +1,6 @@
 #### 包含：
 
-k-means算法，GMM算法
+k-means算法	GMM算法
 
 #### requirements:
 
